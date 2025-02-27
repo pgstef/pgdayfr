@@ -2,10 +2,9 @@
 title: "A propos"
 ---
 
-
 # A propos du PG Day France
 
-Le PGDay France est un moment de rencontres et de conférences pour la communauté
+Le PG Day France est un moment de rencontres et de conférences pour la communauté
 francophone de PostgreSQL.
 
 Les conférences s'adressent à tous les utilisateurs du logiciel : étudiants,
@@ -20,7 +19,7 @@ pour ambition de faire naître ou faire grandir une communauté locale. Les pré
 
 Pour toute information, adressez vos messages à [contact@pgday.fr](mailto:contact@pgday.fr).
 
-### Code de Conduite
+## Code de Conduite
 
 L'équipe de PG Day France et l'association PostgreSQLFr attachent une importance
 à la participation de tous les membres de la communauté PostgreSQL et souhaitent
@@ -33,9 +32,7 @@ Tous les représentants/participants, conférenciers, exposants, organisateurs e
 bénévoles aux événements de PostgreSQLFr doivent se conformer à notre
 [code de conduite](/codedeconduite).
 
-
-
-### Finances
+## Finances
 
 L'organisation d'une journée de conférence ne serait pas possible sans le soutien
 des sponsors ou la vente des billets. Si les recettes de l'événement sont
@@ -47,32 +44,35 @@ même si ses frais de déplacement peuvent dans certains cas lui être rembours�
 
 L'équipe organisatrice est quant à elle entièrement constituée de bénévoles.
 
-### Comité de sélection
+## Comité de sélection
 
-Le comité de sélection 2024 est composé des personnes suivantes :
+Le comité de sélection 2025 est composé des personnes suivantes :
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/team/Anais2.jpg" alt="Anaïs Oberto" class="img-responsive" width=100 style="margin: auto;"/>
-    <p>Anaïs Oberto <br/> Software Engineer @ CNRS</p>
+    <img src="img/team/h_nguyen.jpg" alt="Helene Nguyen" class="img-responsive" width=100 style="margin: auto;"/>
+    <p>Helene Nguyen <br/> Engineering Manager & Software Engineer @ Filigran</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/team/matt.jpeg" alt="Matthieu Cornillon" class="img-responsive" width=100 style="margin: auto;"/>
-    <p>Matthieu Cornillon <br/> Senior Solution Architect @ Aiven</p>
+    <img src="img/orateurs/l_avrot.jpg" alt="Lætitia Avrot" class="img-responsive" width=100 style="margin: auto;"/>
+    <p>Lætitia Avrot <br/> Practice Leader, Postgres & Security @ EDB</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/team/yoann.png" alt="Yoann La Cancellera" class="img-responsive" width=100 style="margin: auto;"/>
-    <p>Yoann La Cancellera <br/> Senior Support engineer @ Percona</p>
+    <img src="img/team/y_colin.jpg" alt="Yves Colin" class="img-responsive" width=100 style="margin: auto;"/>
+    <p>Yves Colin <br/> Customer Engineer Data Management @ Google</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/team/cedric.jpeg" alt="Cedric Duprez" class="img-responsive" width=100 style="margin: auto;"/>
-    <p>Cedric Duprez <br/> Expert bases de données @ IGN</p>
+    <img src="img/team/b_drouvot.jpg" alt="Bertrand Drouvot" class="img-responsive" width=100 style="margin: auto;"/>
+    <p>Bertrand Drouvot <br/> PostgreSQL Major Contributor & Engineering @ Amazon Web Services (RDS)</p>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <img src="img/orateurs/j_riou.jpg" alt="Julien Riou" class="img-responsive" width=100 style="margin: auto;"/>
+    <p>Julien Riou <br/> Tech Lead @ OVH</p>
   </div>
 
 </div>
-
-
