@@ -2,7 +2,6 @@
 title: Bénévoles
 ---
 
-
 # Bénévoles
 
 Le PG Day France est un événement organisé par une équipe entièrement bénévole.
@@ -25,5 +24,3 @@ Cette liste est non-exhaustive.
 
 </p>
 -->
-
-

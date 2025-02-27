@@ -73,7 +73,7 @@ Depuis la gare de Mons, pour rejoindre l'Hôtel _Van der Valk Mons_, empruntez l
 
 Vous venez de loin (ou de moins loin) ? Profitez d'un hébergement confortable directement sur le lieu de l'événement pour un accès facilité aux conférences, ateliers et à la découverte de Mons !
 
-Nous avons négocié un tarif préférentiel ([chambre confort](https://www.hotelmons.eu/chambres/chambre-confort)) en quantité limitée avec l'Hôtel _Van der Valk Mons_**** pour nos participants.
+Nous avons négocié un tarif préférentiel ([chambre confort](https://www.hotelmons.eu/chambres/chambre-confort)) en quantité limitée avec l'Hôtel _Van der Valk Mons_⭐⭐⭐⭐ pour nos participants.
 
 * Tarif négocié : 130€ par nuit (hors petit déjeuner)
 * Accès Wellness inclus !
@@ -155,7 +155,7 @@ From Mons train station, to reach the _Van der Valk Mons Hotel_, take the **Plac
 
 Coming from afar (or not so far)? Enjoy comfortable accommodation directly at the event venue, providing easy access to conferences, workshops, and the city of Mons!
 
-We have negotiated a special rate ([Comfort Room](https://www.hotelmons.eu/en/rooms/comfort-room)) in limited quantity with the _Van der Valk Mons Hotel_**** for our attendees.
+We have negotiated a special rate ([Comfort Room](https://www.hotelmons.eu/en/rooms/comfort-room)) in limited quantity with the _Van der Valk Mons Hotel_⭐⭐⭐⭐ for our attendees.
 
 * Special rate: €130 per night (excluding breakfast)
 * Wellness access included!
