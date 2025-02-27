@@ -29,9 +29,6 @@ Cette année, le PG Day France franchit les frontières et vous invite à Mons, 
 * <strong>Mardi matin</strong> : Ateliers pratiques pour approfondir vos compétences PostgreSQL.
 * <strong>Mardi après-midi & Mercredi</strong> : Conférences, table ronde et lightning talks pour échanger avec la communauté et les experts.
 
-Passionnés, étudiants, DBA, développeurs et entreprises, tous se retrouvent pour partager et apprendre autour de PostgreSQL !
-Restez connectés pour plus de détails et l'ouverture des inscriptions.
-
 Passionné·es, étudiant·es, DBA, développeur·euses et entreprises, tou·tes se retrouvent pour partager et apprendre autour de PostgreSQL !
 Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
 
@@ -77,12 +74,11 @@ Stay tuned for more details and the opening of registrations.
 </center>
 
 <hr/>
-
-<br/><br/>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQlCjZcqCdUrKX1-SD9aTN33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
-
-Vous pouvez consulter les vidéos des éditions précédentes sur
-[notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
+<br/>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQlCjZcqCdUrKX1-SD9aTN33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Vous pouvez consulter les vidéos des éditions précédentes sur [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
+</center>
 
 <!--
 ### Nos partenaires
