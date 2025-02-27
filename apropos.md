@@ -72,7 +72,7 @@ Le comité de sélection 2025 est composé des personnes suivantes :
 
   <div style="text-align: center; margin: 10px;">
     <img src="img/orateurs/j_riou.jpg" alt="Julien Riou" class="img-responsive" width=100 style="margin: auto;"/>
-    <p>Julien Riou <br/> Tech Lead @ OVH</p>
+    <p>Julien Riou <br/> Tech Lead @ OVHcloud</p>
   </div>
 
 </div>
