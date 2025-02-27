@@ -60,7 +60,7 @@ Si vous êtes témoin ou victime d'un comportement inapproprié, voici les point
 
 <h2 id="procédure-en-cas-dincident-pour-léquipe-organisatrice">Procédure en cas d'incident pour l'équipe organisatrice</h2>
 <h3 id="avertissements">Avertissements</h3>
-<p>Tout membre de l'organisation peut émettre un avertissement oral à une personne ayant un comportement inapproprié. Cet avertissement doit être documenté et signalé par email à [bureau@postgresql.fr](mailto:bureau@postgresql.fr) dès que possible.</p>
+<p>Tout membre de l'organisation peut émettre un avertissement oral à une personne ayant un comportement inapproprié. Cet avertissement doit être documenté et signalé par email à <a href="mailto:bureau@postgresql.fr">bureau@postgresql.fr</a> dès que possible.</p>
 
 <h3 id="présentations-conférences">Présentations et conférences</h3>
 <p>Une conférence ne sera pas interrompue pour une infraction mineure, mais un·e membre de l'organisation devra s'entretenir avec l'intervenant·e après l'événement.</p>
@@ -95,9 +95,9 @@ Si vous êtes témoin ou victime d'un comportement inapproprié, voici les point
 
 <h2 id="informations">Informations</h2>
 <p>En cas de doute sur un point du présent code de conduite, la version anglaise fait référence.</p>
-<p>Pour toute question concernant ce code de conduite, contactez-nous à [bureau@postgresql.fr](mailto:bureau@postgresql.fr)</p>
+<p>Pour toute question concernant ce code de conduite, contactez-nous à <a href="mailto:bureau@postgresql.fr">bureau@postgresql.fr</a></p>
 <p>Pour contribuer ou signaler une erreur, consultez le repo <a href="https://github.com/postgresqlfr/code-of-conduct">GitHub</a>.</p>
 
 <h2 id="license-et-attribution">Licence et attribution</h2>
-<p>Ce code de conduite est publié sous licence <strong>Commons Zero</strong> et fait partie du domaine public. Aucune attribution ou licence ouverte n'est requise pour votre version.</p>
+<p>Ce code de conduite est publié sous licence <i>Commons Zero</i> et fait partie du domaine public. Aucune attribution ou licence ouverte n'est requise pour votre version.</p>
 <p>Cette charte anti-harcèlement est basée sur <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">l'exemple de politique anti-harcèlement</a> du <a href="http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki">Geek Feminism Wiki</a>, créée par <a href="https://adainitiative.org/">Ada Initiative</a> et d'autres volontaires, ainsi que sur le <a href="http://phpconference.co.uk/conduct/">code de conduite de PHP UK</a>.</p>
