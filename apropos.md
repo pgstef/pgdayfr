@@ -7,13 +7,15 @@ title: "A propos"
 Le PG Day France est un moment de rencontres et de conférences pour la communauté
 francophone de PostgreSQL.
 
-Les conférences s'adressent à tous les utilisateurs du logiciel : étudiants,
-administrateurs systèmes, DBA, développeurs, chefs de Projets,
-décideurs, etc... suivant les valeurs énoncées dans le Code De Conduite.
+Les conférences s'adressent à toutes les personnes utilisatrices du logiciel :
+étudiant·es, administrateur·rices systèmes, DBA, développeur·euses, chef·fes de
+projet, décideur·euses, etc., dans le respect des valeurs énoncées dans le
+[Code de Conduite](/codedeconduite).
 
-Il se tient depuis 2008 et chaque édition à lieu dans une ville différente, avec
-pour ambition de faire naître ou faire grandir une communauté locale. Les précédentes
-éditions ont eu lieu à Toulouse, Lille, Toulon, Marseille, Lyon, Nantes, Montpellier, Strasbourg.
+Depuis 2008, l'événement se tient chaque année dans une ville différente, avec
+l'ambition de faire naître ou grandir une communauté locale. Les précédentes
+éditions ont eu lieu à Toulouse, Lille, Toulon, Marseille, Lyon, Nantes,
+Montpellier, et Strasbourg.
 
 ## Contact
 
@@ -21,28 +23,28 @@ Pour toute information, adressez vos messages à [contact@pgday.fr](mailto:conta
 
 ## Code de Conduite
 
-L'équipe de PG Day France et l'association PostgreSQLFr attachent une importance
-à la participation de tous les membres de la communauté PostgreSQL et souhaitent
-que chaque participant vive une expérience positive. Dans cette optique, nous
-attendons de tous les participants qu'ils fassent preuve de respect et de
-courtoisie envers les autres participants pendant toute la durée des événements
-de l'association et des événements affiliés à PostgreSQLFr.
+L'équipe du PG Day France et l'association PostgreSQLFr attachent une grande
+importance à la participation de toutes et tous au sein de la communauté
+PostgreSQL, et veillent à ce que chaque personne participante vive une
+expérience positive. Dans cette optique, nous attendons de chacun·e qu'iel fasse
+preuve de respect et de courtoisie envers les autres participant·es tout au long
+des événements organisés par l'association et ceux affiliés à PostgreSQLFr.
 
-Tous les représentants/participants, conférenciers, exposants, organisateurs et
-bénévoles aux événements de PostgreSQLFr doivent se conformer à notre
-[code de conduite](/codedeconduite).
+Toutes les personnes représentant·es, participant·es, conférencier·ères,
+exposant·es, organisateur·rices et bénévoles aux événements de PostgreSQLFr
+doivent se conformer à notre [Code de Conduite](/codedeconduite).
 
 ## Finances
 
-L'organisation d'une journée de conférence ne serait pas possible sans le soutien
-des sponsors ou la vente des billets. Si les recettes de l'événement sont
-excédentaires, les bénéfices seront reversés à l'association PostgreSQLFr.
+L'organisation de ces journées de conférence ne serait pas possible sans le soutien
+des sponsors et la vente des billets. Si l'événement génère un excédent de recettes,
+les bénéfices seront reversés à l'association PostgreSQLFr.
 
-Cette association à but non lucratif vise à la promotion de PostgreSQL dans
-les pays francophones. Aucun conférencier n'est rémunéré pour sa présentation,
-même si ses frais de déplacement peuvent dans certains cas lui être remboursés.
+Cette association à but non lucratif a pour mission de promouvoir PostgreSQL dans
+les pays francophones. Aucun·e conférencier·ère n'est rémunéré·e pour sa présentation,
+bien que ses frais de déplacement puissent, dans certains cas, être remboursés.
 
-L'équipe organisatrice est quant à elle entièrement constituée de bénévoles.
+L'équipe organisatrice est quant à elle entièrement composée de bénévoles.
 
 ## Comité de sélection
 
