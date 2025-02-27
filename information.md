@@ -78,14 +78,14 @@ Nous avons négocié un tarif préférentiel ([chambre confort](https://www.hote
 * Tarif négocié : 130€ par nuit (hors petit déjeuner)
 * Accès Wellness inclus !
 * Comment réserver ? Contactez la réception par :
-📧 Email : info@hotelmons.eu
-📞 Téléphone : +32 65 39 02 07
-📝 Mentionnez le code de réservation : GF13538
+<br/>📧 Email : info@hotelmons.eu
+<br/>📞 Téléphone : +32 65 39 02 07
+<br/>📝 Mentionnez le code de réservation : GF13538
 
 * Dates importantes :
-✔ Jusqu'au 3 avril : La moitié des chambres non réservées sera libérée.
-✔ Jusqu'au 3 mai : Toutes les chambres restantes seront relâchées.
-✔ Après le 3 mai : Réservation selon disponibilité et au tarif en vigueur.
+<br/>✔ Jusqu'au 3 avril : La moitié des chambres non réservées sera libérée.
+<br/>✔ Jusqu'au 3 mai : Toutes les chambres restantes seront relâchées.
+<br/>✔ Après le 3 mai : Réservation selon disponibilité et au tarif en vigueur.
 
 Réservez dès maintenant pour garantir votre hébergement au meilleur prix !
 
@@ -160,13 +160,13 @@ We have negotiated a special rate ([Comfort Room](https://www.hotelmons.eu/en/ro
 * Special rate: €130 per night (excluding breakfast)
 * Wellness access included!
 * How to book? Contact the reception via:
-📧 Email: info@hotelmons.eu
-📞 Phone: +32 65 39 02 07
-📝 Mention the booking code: GF13538
+<br/>📧 Email: info@hotelmons.eu
+<br/>📞 Phone: +32 65 39 02 07
+<br/>📝 Mention the booking code: GF13538
 
 * Important dates:
-✔ Until April 3: Half of the unreserved rooms will be released.
-✔ Until May 3: All remaining unclaimed rooms will be released.
-✔ After May 3: Booking will be subject to availability at the current rate.
+<br/>✔ Until April 3: Half of the unreserved rooms will be released.
+<br/>✔ Until May 3: All remaining unclaimed rooms will be released.
+<br/>✔ After May 3: Booking will be subject to availability at the current rate.
 
 Book now to secure your accommodation at the best price!
