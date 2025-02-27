@@ -54,7 +54,7 @@ Si vous êtes témoin ou victime d'un comportement inapproprié, voici les point
   <li>Fournir une escorte pour assurer la sécurité de la personne concernée ;</li>
   <li>Proposer un espace sûr pour échanger ou se reposer.</li>
 </ul>
-<p>Votre bien-être et votre sécurité sont **une priorité**.</p>
+<p>Votre bien-être et votre sécurité sont <strong>une priorité</strong>.</p>
 
 <p>Nous attendons des participant·es qu'iels respectent ces règles sur les lieux des conférences et des ateliers, ainsi que pendant les événements sociaux liés à l'événement.</p>
 
