@@ -4,20 +4,12 @@ layout: default
 ---
 
 <center>
-<h1>Le rendez-vous annuel de la communauté francophone de PostgreSQL ! </h1>
+<h2>Le rendez-vous annuel de la communauté francophone de PostgreSQL !</h2>
 </center>
 
 <center>
 <img src="img/pgday_2025_bandeau_temporaire.png" alt="Mons Belgique" class="img-responsive"/>
 </center>
-
-
-<!--
-> Le PG Day France est un moment de rencontres et de conférences pour la
-> communauté francophone de PostgreSQL. Les conférences s'adressent à tous
-> les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
-> développeurs, chefs de projets, décideurs, etc
--->
 
 <!--
 <center>
@@ -86,13 +78,11 @@ Stay tuned for more details and the opening of registrations.
 
 <hr/>
 
-<!--
 <br/><br/>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQlCjZcqCdUrKX1-SD9aTN33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
--->
 
 <!--
 ### Nos partenaires
