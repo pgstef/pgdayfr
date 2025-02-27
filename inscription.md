@@ -19,17 +19,15 @@ title: Inscription
 -->
 
 <!-- PAS ENCORE OUVERT -->
-<!--
 <div class="row">
   <div class="col-sm-1"></div>
   <div class="col-lg-12 col-md-12 text-center section-colored">
     <h4> Inscriptions : Les inscriptions ne sont pas ouvertes !</h4>
   </div>
 </div>
--->
-
 <!-- -->
 
+<!--
 <div class="col-md-8 col-md-offset-2 section-colored text-center">
 <div id="eventbrite-widget-container-858106859717"></div>
 
@@ -52,6 +50,6 @@ title: Inscription
     });
 </script>
 </div>
-
+-->
 
 </div> <!-- fin de row -->

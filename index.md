@@ -4,7 +4,7 @@ layout: default
 ---
 
 <center>
-<h1>Le rendez-vous annuel de la communauté PostgreSQL ! </h1>
+<h1>Le rendez-vous annuel de la communauté francophone de PostgreSQL ! </h1>
 </center>
 
 <center>
@@ -40,8 +40,11 @@ Cette année, le PG Day France franchit les frontières et vous invite à Mons, 
 Passionnés, étudiants, DBA, développeurs et entreprises, tous se retrouvent pour partager et apprendre autour de PostgreSQL !
 Restez connectés pour plus de détails et l'ouverture des inscriptions.
 
+Passionné·es, étudiant·es, DBA, développeur·euses et entreprises, tou·tes se retrouvent pour partager et apprendre autour de PostgreSQL !
+Restez connecté·es pour plus de détails et l'ouverture des inscriptions.
+
 <center>
-<h3><a href='/appel'>L'appel à orateur est ouvert !</a></h3>
+<h3><a href='/appel'>L'appel à conférencier·ères est ouvert !</a></h3>
 <!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
