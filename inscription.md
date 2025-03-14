@@ -5,9 +5,9 @@ title: Inscription
 <br/>
 <br/>
 
-<div class="row">
-
 <!-- COMPLET
+<div class="row">
+  <div class="col-sm-1"></div>
   <div class="col-lg-12 col-md-12 text-center">
     <h2>Événement complet!</h2>
     <b>Nous travaillons actuellement pour ajouter des places supplémentaires,
@@ -15,6 +15,7 @@ title: Inscription
         twitter</a> pour être prévenu dès que de nouvelles
     places seront disponibles.</b>
   </div>
+</div>
 -->
 
 <!-- PAS ENCORE OUVERT
@@ -26,14 +27,18 @@ title: Inscription
 </div>
 -->
 
-<div class="col-md-8 col-md-offset-2 section-colored text-center">
+<div class="row">
+  <div class="col-sm-1"></div>
+  <div class="col-lg-12 col-md-12 text-center section-colored">
+  <!-- <div class="col-md-8 col-md-offset-2 section-colored text-center"> -->
+
 <div id="eventbrite-widget-container-1281155042219"></div>
 
 <script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
-        console.log('Commande terminée !');
+        console.log('Order complete!');
     };
 
     window.EBWidgets.createWidget({
@@ -47,9 +52,9 @@ title: Inscription
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-</div>
 
-</div> <!-- fin de row -->
+  </div>
+</div>
 
 <hr/>
 <p><strong>Attention :</strong> l'inscription aux ateliers du mardi 3 juin matin se fera séparément, une fois le programme des ateliers défini. Pour y participer, une inscription valide à l'événement sera néanmoins requise.</p>
