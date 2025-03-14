@@ -28,9 +28,7 @@ title: Inscription
 -->
 
 <div class="row">
-  <div class="col-sm-1"></div>
-  <div class="col-lg-12 col-md-12 text-center section-colored">
-  <!-- <div class="col-md-8 col-md-offset-2 section-colored text-center"> -->
+<div class="col-md-8 col-md-offset-2 section-colored text-center">
 
 <div id="eventbrite-widget-container-1281155042219"></div>
 
@@ -53,7 +51,7 @@ title: Inscription
     });
 </script>
 
-  </div>
+</div>
 </div>
 
 <hr/>
