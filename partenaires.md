@@ -10,9 +10,11 @@ The PG Day France would not be possible without the support of companies from
 the PostgreSQL community. We sincerely thank our sponsors for their support and
 their presence alongside us.
 
+<!--
 ### PARTNERS
 
 <div class="container">
+-->
 
 <!--
 <div class="col-xs-12 col-md-6">
@@ -29,17 +31,18 @@ their presence alongside us.
 </div>
 -->
 
-</div>
-
+<!-- </div> -->
+<!--
 ### COMMUNITY EVENT SPONSOR
 
 <div class="container">
 </div>
-
+-->
+<!--
 ### SUPPORTERS
 
 <div class="container">
-
+-->
 <!--
 <div class="col-xs-12 col-md-6">
 <a href="https://www.decathlon.fr/" class="thumbnail">
@@ -56,7 +59,7 @@ their presence alongside us.
 </div>
 -->
 
-</div>
+<!-- </div> -->
 
 ## (FR) Devenez partenaire du PG Day France
 
