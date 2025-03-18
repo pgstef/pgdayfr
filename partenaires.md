@@ -158,7 +158,7 @@ Du temps dédié aux _lightning talks_ sera à nouveau au programme cette année
     </tr>
   </thead>
   <tr>
-    <th>Logo on the website's homepage/th>
+    <th>Logo on the website's homepage</th>
     <td>Yes</td>
     <td>Yes</td>
     <td>Yes</td>
