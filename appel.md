@@ -16,12 +16,12 @@ La date limite de réception des propositions est désormais fixée au XX avril 
 
 <h3><b>[FR] 📢 Prolongation de la date limite de soumission !</b></h3>
 <p>
-La date limite de réception des propositions est désormais fixée au <strong>9 avril 2025 à 23h59 CEST</strong>.
+La date limite de réception des propositions est désormais fixée au <strong>8 avril 2025 à 23h59 CEST</strong>.
 </p>
 
 <h3><b>[EN] 📢 Submission deadline extended!</b></h3>
 <p>
-The new deadline is now set to <strong>April 9, 2025 at 11:59 PM CEST</strong>.
+The new deadline is now set to <strong>April 8, 2025 at 11:59 PM CEST</strong>.
 </p>
 
 ![](img/audience.jpg)
